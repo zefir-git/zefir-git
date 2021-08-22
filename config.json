@@ -117,10 +117,12 @@
   },
   "contact": [{
     "name": "E-mail",
-    "value": "william@cloudnode.pro"
+    "value": "william@cloudnode.pro",
+    "href": "mailto:William Duncan <william@cloudnode.pro>"
   }, {
     "name": "Discord",
-    "value": "WilliamD#1782"
+    "value": "WilliamD#1782",
+    "href": "https://discord.com/users/608201166454652944"
   }, {
     "name": "GitHub",
     "value": "williamd5",
