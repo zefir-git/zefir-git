@@ -97,7 +97,7 @@
       "icon": "https://cdn.cloudnode.pro/ZJpcBwytab7TEKiSBuYEQjlAOb887dGa/william.cloudnode.pro/images/ubuntu.png",
       "title": "Ubuntu",
       "description": [
-        "20.04 LTS, gnome, Materia-dark, Qogir-dark",
+        "21.04, Wayland, Materia-dark, Qogir-dark",
         "i7-9750H, GTX 1650"
       ]
     },
