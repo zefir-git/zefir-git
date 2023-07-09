@@ -4,10 +4,9 @@ I am the CEO and lead software engineer of [cloudnode.pro](https://cloudnode.pro
 
 ### Get in touch
 - Legal enquiries - `legal@cloudnode.pro`
-- Bussiness - `william@cloudnode.pro`
-- Everything else - @williamd5:matrix.org
+- Bussiness - `contact@zefir.pro`
 
 ### Cloudnode
-Cloudnode is a hosting platform that provides professional hosting services at low costs. Our carefully designed and feedback-based interface is made to maximise the efficiency of your work by providing access to advanced settings in a simple and intuitive way, so that anyone can take full advantage of our services.
+Cloudnode is a cutting-edge hosting platform offering exceptional hosting services at affordable prices. Our platform features a meticulously crafted, user-friendly interface that has been fine-tuned based on valuable feedback, ensuring the utmost efficiency for your work. With our intuitive design, accessing advanced settings is a breeze, empowering users of all skill levels to harness the full potential of our services.
 
 [**`cloudnode.pro`**](https://cloudnode.pro)
