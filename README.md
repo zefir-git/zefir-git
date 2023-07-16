@@ -3,7 +3,7 @@
 I am the CEO and lead software engineer of [cloudnode.pro](https://cloudnode.pro). I develop with Node.js, but also have experience with Java, C++ and PHP. And naturally, I use Linux.
 
 ### Get in touch
-- Legal enquiries - `legal@cloudnode.pro`
+- Legal inquiries - `legal@cloudnode.pro`
 - Bussiness - `contact@zefir.pro`
 
 ### Cloudnode
